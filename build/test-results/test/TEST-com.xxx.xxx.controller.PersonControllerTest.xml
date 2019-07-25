@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.xxx.xxx.controller.PersonControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-07-18T12:40:13" hostname="kouweideMacBook-Air.local" time="1.579">
+  <properties/>
+  <testcase name="should_get_name" classname="com.xxx.xxx.controller.PersonControllerTest" time="1.579"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
