@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.xxx.xxx.service.PersonServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-07-18T12:40:16" hostname="kouweideMacBook-Air.local" time="2.212">
-  <properties/>
-  <testcase name="should_find_person_when_is_james" classname="com.xxx.xxx.service.PersonServiceTest" time="2.207"/>
-  <testcase name="should_find_person_when_is_not_james" classname="com.xxx.xxx.service.PersonServiceTest" time="0.003"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
